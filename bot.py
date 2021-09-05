@@ -14,7 +14,7 @@ logger = logging.getLogger(__name__)
 
 
 #CHANGE YOU'R TOKEN JUST RIGHT HERE
-TOKEN=''
+TOKEN='1372871302:AAHEAPuq2VA1fSvcjYHKZc2FSqHV8RWgWeg'
 
 
 def start(update: Update, context: CallbackContext) :
